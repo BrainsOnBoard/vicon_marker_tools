@@ -1,0 +1,6 @@
+[submodule "bob_robotics"]
+	path = bob_robotics
+	url = ../bob_robotics
+[submodule "vicon_data_stream_sdk"]
+	path = vicon_data_stream_sdk
+	url = ../ViconDataStreamSDK/
