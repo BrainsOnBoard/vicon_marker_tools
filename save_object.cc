@@ -34,7 +34,7 @@ namespace plt = matplotlibcpp;
 
 int bob_main(int argc, char **argv)
 {
-    const std::string ip = (argc == 1) ? "192.168.1.106" : argv[1];
+    const std::string ip = (argc == 1) ? "192.168.1.104" : argv[1];
 
     // Make a new client
     Client client;
